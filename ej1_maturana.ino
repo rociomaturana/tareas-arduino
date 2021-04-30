@@ -16,3 +16,5 @@ void loop()
   }
   delay(10); // Delay a little bit to improve simulation performance //le dea el tiempo de espera
 }
+
+//dejate el pelo corto c:
